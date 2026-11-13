@@ -1,0 +1,40 @@
+[2026-11-09 01:43:38] Producer 1 generated event 1
+[2026-11-09 01:43:38] Producer 1 generated event 2
+[2026-11-09 01:43:38] Producer 1 generated event 3
+[2026-11-09 01:43:38] Producer 1 generated event 4
+[2026-11-09 01:43:38] Producer 1 generated event 5
+[2026-11-09 01:43:38] Producer 2 generated event 1
+[2026-11-09 01:43:38] Producer 2 generated event 2
+[2026-11-09 01:43:38] Producer 2 generated event 3
+[2026-11-09 01:43:38] Producer 2 generated event 4
+[2026-11-09 01:43:38] Producer 2 generated event 5
+[2026-11-14 00:51:11] Producer 2 generated event 1
+[2026-11-14 00:51:12] Producer 2 generated event 2
+[2026-11-14 00:51:12] Producer 2 generated event 3
+[2026-11-14 00:51:12] Producer 2 generated event 4
+[2026-11-14 00:51:12] Producer 2 generated event 5
+[2026-11-14 00:51:12] Producer 1 generated event 1
+[2026-11-14 00:51:12] Producer 1 generated event 2
+[2026-11-14 00:51:12] Producer 1 generated event 3
+[2026-11-14 00:51:12] Producer 1 generated event 4
+[2026-11-14 00:51:12] Producer 1 generated event 5
+[2026-11-14 00:52:45] Producer 1 generated event 1
+[2026-11-14 00:52:45] Producer 1 generated event 2
+[2026-11-14 00:52:45] Producer 1 generated event 3
+[2026-11-14 00:52:45] Producer 1 generated event 4
+[2026-11-14 00:52:45] Producer 1 generated event 5
+[2026-11-14 00:52:45] Producer 2 generated event 1
+[2026-11-14 00:52:45] Producer 2 generated event 2
+[2026-11-14 00:52:45] Producer 2 generated event 3
+[2026-11-14 00:52:45] Producer 2 generated event 4
+[2026-11-14 00:52:45] Producer 2 generated event 5
+[2026-11-14 00:56:52] Consumer processed: Producer 1 generated event 1
+[2026-11-14 00:56:52] Consumer processed: Producer 1 generated event 2
+[2026-11-14 00:56:52] Consumer processed: Producer 1 generated event 3
+[2026-11-14 00:56:52] Consumer processed: Producer 1 generated event 4
+[2026-11-14 00:56:52] Consumer processed: Producer 1 generated event 5
+[2026-11-14 00:56:52] Consumer processed: Producer 2 generated event 1
+[2026-11-14 00:56:52] Consumer processed: Producer 2 generated event 2
+[2026-11-14 00:56:52] Consumer processed: Producer 2 generated event 3
+[2026-11-14 00:56:52] Consumer processed: Producer 2 generated event 4
+[2026-11-14 00:56:52] Consumer processed: Producer 2 generated event 5
